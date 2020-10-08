@@ -112,8 +112,6 @@ namespace ConsoleApp1
 
             JaggedArray(jaggLength, indexes);
 
-            Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Чудова робота заслуговує на чудову оцiнку");
             Console.ReadKey();
         }
     }
